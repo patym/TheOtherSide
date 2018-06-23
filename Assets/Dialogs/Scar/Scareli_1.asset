@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c20e5a221515242852602ede4e8944, type: 3}
+  m_Name: Scareli_1
+  m_EditorClassIdentifier: 
+  speak: "Scareli: Na verdade eu n\xE3o estava no meu quarto nesse dia."
+  answer:
+  - answer: "Scareli: Era s\xF3 isso?"
+    nextDialog: {fileID: 11400000, guid: 3f8e779a81482d547a424c78c51df6f9, type: 2}

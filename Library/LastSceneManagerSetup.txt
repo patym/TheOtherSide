@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Warren_BedRoom.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c20e5a221515242852602ede4e8944, type: 3}
+  m_Name: Warren_3
+  m_EditorClassIdentifier: 
+  speak: "Warren: tu sabe se tem algu\xE9m com m\xE1s inten\xE7\xF5es aqui e que possa
+    ter roubado algu\xE9m?  "
+  answer:
+  - answer: "Hugo: Geralmente os guris que querem festas procuram um meio de conseguir
+      dinheiro f\xE1cil. Foi assim que fizeram uma aposta e sofri bullying.  "
+    nextDialog: {fileID: 11400000, guid: 4bef57f606c0f824997c426a5661f32f, type: 2}

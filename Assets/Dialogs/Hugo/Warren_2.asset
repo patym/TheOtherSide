@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c20e5a221515242852602ede4e8944, type: 3}
+  m_Name: Warren_2
+  m_EditorClassIdentifier: 
+  speak: "Warren: Ent\xE3o tu pode me ajudar?  "
+  answer:
+  - answer: 'Hugo: Sim.'
+    nextDialog: {fileID: 11400000, guid: 576100af5cbae1348b3a0132051e9191, type: 2}
